@@ -9,8 +9,11 @@ export default function Home({ navigation }) {
     title: "Young and beautiful",
     group: "AC/DC",
     album_image:
-      "https://i.discogs.com/zjMkOcLUu2f3jJ0CzZrZa_5ZszuIajRbM8NhPm6ZWAg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcw/OTUtMTQ0MTI5OTQ2/NC03NjUyLnBuZw.jpeg"
-  }
+      "https://i.discogs.com/zjMkOcLUu2f3jJ0CzZrZa_5ZszuIajRbM8NhPm6ZWAg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcw/OTUtMTQ0MTI5OTQ2/NC03NjUyLnBuZw.jpeg",
+    album: "Lazy Sunday 3",
+    year: 2013,
+    genre: "Pop",
+    }
 
 
   return (
